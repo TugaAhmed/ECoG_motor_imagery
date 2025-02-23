@@ -18,3 +18,4 @@ Chong, L., Zhao, H. B., Li, C. S. and Hong, W. (2010) 'Classification of ECoG si
 
 
 
+#### [Video Recording] (https://www.world-wide.org/neuromatch-5.0/classifying-motor-imagery-ecog-signal-bb5dedd9/)
