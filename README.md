@@ -17,4 +17,4 @@ Miller, K. J., Schalk, G., Fetz, E. E., den Nijs, M., Ojemann, J. G., & Rao, R. 
 Chong, L., Zhao, H. B., Li, C. S. and Hong, W. (2010) 'Classification of ECoG signals for motor imagery tasks,' 2010 2nd International Conference on Signal Processing Systems. Dalian, P. R. China, 2010.IEEE.
 
 
-#### [Video Recording](https://www.world-wide.org/neuromatch-5.0/classifying-motor-imagery-ecog-signal-bb5dedd9/) 
+#### [Video Recording] (https://www.world-wide.org/neuromatch-5.0/classifying-motor-imagery-ecog-signal-bb5dedd9/) 
