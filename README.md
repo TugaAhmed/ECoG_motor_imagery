@@ -15,3 +15,6 @@ Previous investigations into applying LDA, KNN, and SVM as classifiers for tongu
 Miller, K. J., Schalk, G., Fetz, E. E., den Nijs, M., Ojemann, J. G., & Rao, R. P. N. (2010). Cortical activity during motor execution, motor imagery, and imagery-based online feedback. Proceedings of the National Academy of Sciences, 107(9), 4430–4435. [https://doi.org/10.1073/pnas.0913697107](https://doi.org/10.1073/pnas.0913697107)
 
 Chong, L., Zhao, H. B., Li, C. S. and Hong, W. (2010) 'Classification of ECoG signals for motor imagery tasks,' 2010 2nd International Conference on Signal Processing Systems. Dalian, P. R. China, 2010.IEEE.
+
+
+#### [Video Recording](https://www.world-wide.org/neuromatch-5.0/classifying-motor-imagery-ecog-signal-bb5dedd9/) 
